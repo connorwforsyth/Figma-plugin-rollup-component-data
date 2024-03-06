@@ -70,7 +70,7 @@ async function renderText(totalInstances: any, nonInstance: any, count: any) {
     count
   )}`;
   text.fontSize = 256;
-  text.fills = [{ type: "SOLID", color: { r: 1, g: 0, b: 0 } }];
+  text.fills = [{ type: "SOLID", color: { r: 0, g: 1, b: 0 } }];
   nodes.push(text);
   console.log(count);
   figma.viewport.scrollAndZoomIntoView(nodes);
