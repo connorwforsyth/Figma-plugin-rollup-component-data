@@ -1,0 +1,14 @@
+{
+  "name": "Rollup Component Instance",
+  "id": "1347144686258087939",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": ["figma"],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": ["https://rsms.me"]
+  },
+  "documentAccess": "dynamic-page"
+}
